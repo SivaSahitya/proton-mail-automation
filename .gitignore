@@ -1,0 +1,23 @@
+# Maven
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Test output
+test-output/
+
+# Reports and screenshots
+reports/
+screenshots/
+
+# Local configuration / secrets
+.env
+*.env
+config.properties
+
+# Operating system files
+Thumbs.db
+.DS_Store
